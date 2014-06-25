@@ -15,6 +15,6 @@
 	"keywords": [],
 	"devDependencies": {
 		"grunt": "~0.4.0",
-		"grunt-grunticon": "1.2.5"
+		"grunt-grunticon": "1.2.7"
 	}
 }
